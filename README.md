@@ -9,6 +9,7 @@
   * Подпись запросов
 * Определение недоверенной среды
   * Root
+  * SafetyNet
   * Отладчик
   * Небезопасный Wi-Fi
 * Android keystore system

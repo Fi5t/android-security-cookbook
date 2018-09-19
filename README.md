@@ -8,6 +8,7 @@
   * Public Key Pinning
   * Network Security Config (API 24+)
   * Подпись запросов
+  * Хранение и обновление токенов
 * Определение недоверенной среды
   * Root
   * SafetyNet

@@ -89,6 +89,10 @@ private fun getPinner(): CertificatePinner {
 }
 ```
 
+### Альтернативная реализация (Network Security Config)
+
+Если минимальная поддерживаемая версия API для в вашем проекте равна **24**, тогда можно последовать рекомендациям OWASP и сделать прикрепление с помощью одного лишь Network Security Config, как это показано [здесь](https://github.com/Fi5t/android-security-cookbook/blob/master/%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D1%81%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BB%D0%BE%D1%8F/Network%20Secruity%20Config.md).
+
 ## Полезные ссылки
 
 - [Все, что необходимо знать о технологии HTTP Public Key Pinning (HPKP)](https://www.securitylab.ru/analytics/479602.php)

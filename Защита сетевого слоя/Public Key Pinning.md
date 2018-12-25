@@ -106,4 +106,4 @@ TBD
 
 - [Все, что необходимо знать о технологии HTTP Public Key Pinning (HPKP)](https://www.securitylab.ru/analytics/479602.php)
 - [OWASP Certificate and Public Key Pinning (en)](https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning)
-- [Security with HTTPS and SSL](https://developer.android.com/training/articles/security-ssl)
+- [Security with HTTPS and SSL (en)](https://developer.android.com/training/articles/security-ssl)

@@ -28,3 +28,4 @@
 * [Библиотеки](https://github.com/Fi5t/android-security-cookbook/blob/master/%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8.md)
 * [Плагины]()
 * [Внешние инструменты]()
+* [Чек-лист безопасности](https://github.com/Fi5t/android-security-cookbook/blob/master/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8.md)
